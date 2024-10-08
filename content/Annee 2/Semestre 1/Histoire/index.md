@@ -1,5 +1,5 @@
 ---
 title: Histoire
 enableToc: true
-maxDepth: 2
+maxDepth: 3
 ---
