@@ -1,6 +1,8 @@
 ---
-title: Notes HEPIA
+title: Notes de cours HEPIA
 ---
+# J'te jure c'est facile à utiliser
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+1. Pour trouver les notes du cours faut utiliser le truc à gauche la
+2. Tu cliques sur Annee 2 et après sur Semestre 1
+3. Pour finir tu choisis le cours et après t'as mes notes du cours

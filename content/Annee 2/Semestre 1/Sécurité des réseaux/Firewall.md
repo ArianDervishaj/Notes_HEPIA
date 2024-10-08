@@ -215,13 +215,3 @@ Permet à plusieurs appareils du réseau interne de partager une même adresse I
     - Exemple : Transfert d'une connexion sur le port 80 (HTTP) vers le port 8080 d'un serveur interne.
 
 ![[Pasted image 20241007145737.png]]
-
-
----
-TODO
-- [x] Sécu : retrouver tous les types d'IPs privées 📅2024-10-07 [link](https://todoist.com/app/task/8443181623) #todoist %%[todoist_id:: 8443181623]%%
-- [x] Sécu : regarder si mail = TCP ou UDP 📅2024-10-07 [link](https://todoist.com/app/task/8443181652) #todoist %%[todoist_id:: 8443181652]%%
-- [x] Sécu : SOCKS 5 📅2024-10-07 [link](https://todoist.com/app/task/8443181684) #todoist %%[todoist_id:: 8443181684]%%
-- [x] Sécu : Trouver un logiciel de honey pot sous linux 📆2024-10-14 [link](https://todoist.com/app/task/8465696102) #todoist  %%[todoist_id:: 8465696102]%%
-- [x] Sécu : Toutes les adresses possibles des hôtes pour 172.16.0.0/12 avec adresse réseaux ett adresse 📆2024-10-14 [link](https://todoist.com/app/task/8465724536) #todoist %%[todoist_id:: 8465724536]%%
-- [ ] Sécu : Faire TP 1 Proxy ex1 a,b,c, ex2,  finir 4 📆2024-10-14 [link](https://todoist.com/app/task/8465863626) #todoist %%[todoist_id:: 8465863626]%%
