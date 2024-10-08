@@ -1,7 +1,5 @@
 ---
-title: "Test"
+title: Test
 draft: false
-tags: -
+tags:
 ---
-
-Ceci est un test
