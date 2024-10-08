@@ -1,5 +1,5 @@
 ---
-title: Notes HEPIA 2ème
+title: Notes HEPIA
 ---
 
 This is a blank Quartz installation.
