@@ -66,7 +66,7 @@ importers:
         specifier: ^4.1.0
         version: 4.1.0
       lightningcss:
-        specifier: ^1.26.0
+        specifier: ^1.27.0
         version: 1.27.0
       mdast-util-find-and-replace:
         specifier: ^3.0.1
@@ -84,7 +84,7 @@ importers:
         specifier: ^8.4.1
         version: 8.4.1
       preact:
-        specifier: ^10.24.1
+        specifier: ^10.24.2
         version: 10.24.2
       preact-render-to-string:
         specifier: ^6.5.11
@@ -95,6 +95,9 @@ importers:
       pretty-time:
         specifier: ^1.1.0
         version: 1.1.0
+      punycode:
+        specifier: ^2.3.1
+        version: 2.3.1
       reading-time:
         specifier: ^1.5.0
         version: 1.5.0
@@ -102,7 +105,7 @@ importers:
         specifier: ^7.1.0
         version: 7.1.0
       rehype-citation:
-        specifier: ^2.1.1
+        specifier: ^2.1.2
         version: 2.1.2
       rehype-katex:
         specifier: ^7.0.1
@@ -153,7 +156,7 @@ importers:
         specifier: ^6.1.5
         version: 6.1.5
       shiki:
-        specifier: ^1.18.0
+        specifier: ^1.22.0
         version: 1.22.0
       source-map-support:
         specifier: ^0.5.21
@@ -196,7 +199,7 @@ importers:
         specifier: ^4.0.9
         version: 4.0.9
       '@types/node':
-        specifier: ^22.7.4
+        specifier: ^22.7.5
         version: 22.7.5
       '@types/pretty-time':
         specifier: ^1.1.5
@@ -211,7 +214,7 @@ importers:
         specifier: ^17.0.33
         version: 17.0.33
       esbuild:
-        specifier: ^0.19.9
+        specifier: ^0.19.12
         version: 0.19.12
       prettier:
         specifier: ^3.3.3
