@@ -1,3 +1,10 @@
+---
+title: MacFlooding
+draft: false
+tags:
+  - RPI
+  - Labo
+---
 # Installation des machines
 
 #### H4
