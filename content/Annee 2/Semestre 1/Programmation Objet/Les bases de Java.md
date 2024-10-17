@@ -77,7 +77,8 @@ Littéral de type double.
 Pour avoir un float, il faut le postfixer avec un f.
 
 ```java
-float a = 3.2f;
+float a = 10.0 //  ERREUR, 10.0 est un double
+float a = 3.2f; // OK
 ```
 
 Pas de promotion numérique, une expression sur deux float retourne un float.
