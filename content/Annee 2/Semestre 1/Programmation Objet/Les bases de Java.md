@@ -73,10 +73,6 @@ short c = a + b; // Erreur car a+b retourne un int.
 ```
 # Type réels
 
-| type   | octets |
-| ------ | ------ |
-| float  | 4      |
-| double | 8      |
 Littéral de type double.
 Pour avoir un float, il faut le postfixer avec un f.
 
@@ -85,6 +81,11 @@ float a = 3.2f;
 ```
 
 Pas de promotion numérique, une expression sur deux float retourne un float.
+
+| type   | octets |
+| ------ | ------ |
+| float  | 4      |
+| double | 8      |
 # Type caractère
 
 | type | octets |
@@ -122,7 +123,7 @@ if ( i < j ){...}
 
 - Si une conversion entre ces types sont possibles.
 - [[Les bases de Java#Conversions implicites|Conversion implicites]] possible si aucune perte de précision.
-- Si la conversion implique une perte de précision alors conversion explicite (*cast*) au risque de perdre de l'information.
+- Si la conversion implique une perte de précision alors [[Les bases de Java#Conversions explicites|conversions explicites]] (*cast*) au risque de perdre de l'information.
 # Conversions implicites
 ## Possible selon la hiérarchie suivante :
 
